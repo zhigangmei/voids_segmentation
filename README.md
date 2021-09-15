@@ -13,6 +13,8 @@ In the future, you can get the latest copy of the software by calling `git pull`
 Build the environment by calling `conda env create --file environment.yml` from the command line.
 Anaconda will then create a new environment, named "voids_segmentation" which you must activate before working with your tools.
 
+Add `cudatoolkit` dependency in environment.yml to enable Pytorch running on GPU.
+
 ## Use
 
 1. Activate conda environment: ``conda activate voids_segmentation``
