@@ -18,7 +18,7 @@ Anaconda will then create a new environment, named "voids_segmentation" which yo
 
 1. Activate conda environment: ``conda activate voids_segmentation``
 2. Change directory to ``voids_segmentation``
-3. Copy the pre-triained model ``voids_segmentation_091321.pth`` (shared on Box) to the same folder
+3. Copy the pre-triained model ``voids_segmentation_091321.pth`` (shared in Box) to the same folder
 4. Launch Jupyterlab: `jupyter lab`
 5. Open jupyter-notebook: `Voids_prediction_pytorch.ipynb`
 6. Test model on your own images: copy images to the `test_images` folder 
