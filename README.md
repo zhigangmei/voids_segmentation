@@ -2,9 +2,8 @@
 
 Semantic segmentation of voids in irradiated materials using pytorch models
 
-## Download and install `voids_segmentation` model 
+## Download `voids_segmentation` model 
 
-The latest version of `voids_segmentation` is available on our [GitHub page](https://github.com/zhigangmei/voids_segmentation.git).
 Get the latest version using git to "clone" a local copy of the GitHub repository on your computer: `git clone https://github.com/zhigangmei/voids_segmentation.git`.
 The cloning process will download the source code to your system to a new folder (named `voids_segmentation`) that contains the configuration files needed to keep the folder up to date with GitHub. 
 In the future, you can get the latest copy of the software by calling `git pull` from inside the `voids_segmentation` folder.
